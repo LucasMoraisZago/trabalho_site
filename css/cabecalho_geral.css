@@ -1,0 +1,45 @@
+.menu {
+    height: 40px;
+    padding-bottom: 8px;
+    font-size: 16px;
+    /* position: fixed; */
+    top: 0;
+    width: 98vw;
+    
+  }
+  
+  .navMenu ul {
+    list-style: none;
+    text-align: center;
+    
+  }
+  
+  .navMenu ul li {
+    display: inline;
+    text-decoration: none;
+    
+  }
+  
+.navMenu ul li a {
+    padding-left: 1.2vw;
+    display: inline-block;
+    color: red;
+    text-decoration: none;
+    vertical-align: middle;
+}
+
+.img-header{
+    top:0vh;
+    left:29vw;
+    position: fixed;
+    width:50px;
+    height:50px;
+    
+}
+
+.img-t{
+    width:100px;
+    height:100px;
+    
+}
+
